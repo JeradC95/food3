@@ -1,0 +1,12 @@
+{
+  "name": "JeradC95/328/food3",
+  "authors": [
+    {
+      "name": "Jerad Clark",
+      "email": "jclark74@mail.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
